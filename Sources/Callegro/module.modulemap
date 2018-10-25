@@ -1,0 +1,6 @@
+module CAllegro
+{
+	umbrella header "CAllegro.h"
+	link "liballegro"
+	export *
+}
