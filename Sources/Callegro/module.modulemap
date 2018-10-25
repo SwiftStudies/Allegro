@@ -1,4 +1,4 @@
-module CAllegro
+module CAllegro [system]
 {
 	umbrella header "CAllegro.h"
 	link "liballegro"
